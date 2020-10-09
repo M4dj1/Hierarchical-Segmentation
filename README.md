@@ -1,2 +1,4 @@
 # Hierarchical_Segmentation
-Image segmantation using Hierarchical Agglomerative Clustering
+Grayscale Image segmantation using Hierarchical Agglomerative Clustering
+
+![Test Image 1](Test.jpg)
